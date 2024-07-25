@@ -4,6 +4,7 @@ This data analysis project aims to provide insights into the sales performance o
 By analyzing various of the sales data , seek trends , and gain a deeper understanding of the supermarket's performances .
 ## Data Sources
 Sales Data : The primary dataset used for this analysis is the "supermarket_sales - Sheet1 (1).csv" file , containing detailed information about each sale made by the company within three months .
+
 ## Tools
 - Excel [Download here](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data)
 - SQL
@@ -22,6 +23,13 @@ Sales Data : The primary dataset used for this analysis is the "supermarket_sale
 - Sum of Revenue by payment method
 - Sum of profit by Product line
 - Sum of quantity by Customer type
+
+
+![WhatsApp Image 2024-07-25 at 16 54 48_9e246ad1](https://github.com/user-attachments/assets/cce91c7e-ede5-426b-a66a-664c2cdb6264)
+
+
+
+
   ##  Data Analysis
   ```sql
   select * from supermarket_sales table
